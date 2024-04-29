@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ssamarasam
-- 👀 Passionate on cyber security, building fullstack applications, linux, cloud, python.
-- 🌱 Upskilling on Python, JavaScript, ReactJS, CyberSecurity, Cloud (Azure Security), Bash Scripting
-- 💞️ I’m looking to collaborate on webdev, cloud security, security automation.
+- 👀 Passionate on cyber security, cloud, python, linux, MERN stack
+- 🌱 Upskilling on Python, CyberSecurity, Cloud (Azure Security), Bash Scripting, JavaScript, ReactJS, 
+- 💞️ I’m looking to collaborate on cloud security, security automation, webdev
 
 
 <!---
